@@ -4,11 +4,11 @@ Thermal Detection (20.04, ROS Foxy)
 0. 설치 전 초기 작업 
 
 > jetson stats 설치
-	sudo apt update
-	sudo apt upgrade
-	sudo apt install python3-pip
-	sudo -H pip install -U jetson-stats
-	sudo reboot	
+sudo apt update
+sudo apt upgrade
+sudo apt install python3-pip
+sudo -H pip install -U jetson-stats
+sudo reboot	
 
 
 > 설치완료 후, jetson-stats 실행 확인
