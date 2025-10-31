@@ -57,6 +57,6 @@ python kiro_thermal/setup_env.py
 5. 알고리즘 실행
 > detection 알고리즘 실행
 ```
-yolo detect predict --model=thermal_light_kiro.pt --source=0 --show=True
+yolo detect predict --model=thermal_kiro_2025ext.pt --source=0 --show=True
 ```	
 ---
